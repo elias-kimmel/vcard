@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 26.1//EN
+N:Kimmel;Elias;;Dipl.-Ing.;
+FN:Dipl.-Ing. Elias Kimmel
+ORG:Universität für Bodenkultur Wien;Institut für Forsttechnik
+EMAIL;type=INTERNET;type=WORK;type=pref:elias.kimmel@boku.ac.at
+TEL;type=HOME;type=VOICE;type=pref:+43 681 81613369
+item1.ADR;type=WORK;type=pref:;;Peter-Jordan-Straße 82/III\nSCHW-3/146;Wien;;1190;Österreich
+item1.X-ABADR:at
+END:VCARD
